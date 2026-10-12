@@ -1,0 +1,20 @@
+{
+  "name": "All Things Blog",
+  "short_name": "All Things",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoKJzFld8OlAQkRGbWdhzv-mxNpcEDts9PEv0phEx08xnLXjVfomX2_XjP2zgnNdL5soEcxAmL-BalgE8ZTf3rjY6r_F5aTtnc9y9Ka9yn3KBntVU1e_xyNAurSsXH9kERGlbC3DT3WkRtR7xFuSl9NKYNSJJJApYSGgjPR9fGpM8HogX_Y-ENzscgSco/s192/ikon%20All%20192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKWh6Z9WNekJ8_s-zC1bu4OZ87MMz0NWfFvAu4-g139p3pNnKW8rORenwLweY6u4uQGlGjC2T-76uNmMKV-yPN9RWWz18HhvHT7KEDWs8FldOjDCB-4dplaiyH5OXzVHRWFxM3frNuOwQdDdzJnlGgwLK_JHyDqzXXu8IVuTwXJTCLqfe77tHpaCorZWU/s512/ikon%20All%20512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
